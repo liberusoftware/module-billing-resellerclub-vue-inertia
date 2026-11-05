@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-resellerclub-vue-inertia",
+  "capabilityKey": "liberusoftware/billing-resellerclub",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-billing-resellerclub-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-resellerclub.md",
+  "presentationPlan": "projects/billing/vue/module-billing-resellerclub.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
